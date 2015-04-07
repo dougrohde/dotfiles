@@ -82,3 +82,5 @@ map <Leader>ra :call RunAllSpecs()<CR>
 :imap ii <Esc> 
 
 syntax enable
+set background=light
+colorscheme solarized
